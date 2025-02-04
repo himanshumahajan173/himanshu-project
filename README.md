@@ -1,4 +1,4 @@
 # himanshu-project
 this is my first repository
 <br>
-author-himanshu
+author-himanshu mahajan
